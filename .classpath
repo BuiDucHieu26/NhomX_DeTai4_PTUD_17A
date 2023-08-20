@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Icon"/>
+	<classpathentry kind="src" path="Hinh"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/ButtonLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/ComboBoxLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/ControlPanelLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/ChartLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/datechooser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/DialogLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/DrawerLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/flatlaf-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/gradient-icon-font.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/InputLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/jna-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/KGradientPanel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/MenuLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/NotificationLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/PanelLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/pie-chart.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/RadioLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/ScrollbarLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/swing-jnafilechooser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomXX_DeTai04_PTUD_17A_2023/libs/timingframework-1.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar" sourcepath="jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomX_DeTai4_PTUD/libs/flatlaf-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomX_DeTai4_PTUD/libs/flatlaf-extras-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP-PC/OneDrive/OneDrive - Industrial University of HoChiMinh City/Nam_2/HK2/JavaSwing/Project/NhomX_DeTai4_PTUD/libs/jsvg-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
